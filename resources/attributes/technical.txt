@@ -1,0 +1,14 @@
+Corners
+Crossing
+Dribbling
+Finishing
+First Touch
+Free Kicks
+Heading
+Long Shots
+Long Throws
+Marking
+Passing
+Penalty
+Tackling
+Technique

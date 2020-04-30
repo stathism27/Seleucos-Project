@@ -1,0 +1,8 @@
+Acceleration
+Agility
+Balance
+Jumping
+Natural Fitness
+Pace
+Stamina
+Strength

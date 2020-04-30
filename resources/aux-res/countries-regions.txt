@@ -1,0 +1,198 @@
+Afghanistan,arabic
+Albania,albanian
+Algeria,french
+Andorra,spanish
+Angola,english,french
+Antigua & Deps,english
+Argentina,spanish
+Armenia,armenian
+Australia,english
+Austria,german
+Azerbaijan,turkish
+Bahamas,english
+Bahrain,arabic
+Bangladesh,bengali
+Barbados,english
+Belarus,russian
+Belgium,dutch,french,german
+Belize,english
+Benin,french
+Bhutan,arabic
+Bolivia,spanish
+Bosnia Herzegovina,bosnian
+Botswana,english
+Brazil,brazilian
+Brunei,indonesian
+Bulgaria,bulgarian
+Burkina,french
+Burundi,swahili,french,english
+Cambodia,thai
+Cameroon,french,english
+Canada,french,english
+Cape Verde,portuguese
+Central African Republic,french
+Chad,french,arabic
+Chile,spanish
+China,chinese
+Colombia,spanish
+Comoros,swahili,arabic,french
+Congo,swahili,french
+Costa Rica,spanish
+Croatia,croatian
+Cuba,spanish
+Cyprus,greek
+Czech Republic,czech
+Denmark,danish
+Djibouti,french,arabic
+Dominica,english
+Dominican Republic,spanish
+East Timor,portuguese
+Ecuador,spanish
+Egypt,egyptian
+El Salvador,spanish
+England,english
+Equatorial Guinea,spanish,portuguese,french
+Eritrea,arabic,italian,english
+Estonia,estonian
+Ethiopia,ethiopian
+Fiji,english
+Finland,finnish
+France,french
+Gabon,french
+Gambia,english
+Georgia,georgian
+Germany,german
+Ghana,ghanaian
+Greece,greek
+Grenada,english
+Guatemala,spanish
+Guinea,french
+Guinea-Bissau,french
+Guyana,french
+Haiti,french
+Honduras,spanish
+Hungary,hungarian
+Iceland,icelandic
+India,hindi
+Indonesia,indonesian
+Iran,persian
+Iraq,kurdish
+Ireland,irish
+Israel,hebrew
+Italy,italian
+Ivory Coast,ivorian,french
+Jamaica,jamaican
+Japan,japanese
+Jordan,arabic
+Kazakhstan,turkish,russian
+Kenya,swahili,english
+Kiribati,english
+Korea North,korean
+Korea South,korean
+Kosovo,albanian,serbian
+Kuwait,arabic
+Kyrgyzstan,russian
+Laos,thai
+Latvia,latvian
+Lebanon,arabic,english
+Lesotho,english
+Liberia,english
+Libya,arabic
+Liechtenstein,german
+Lithuania,lithuanian
+Luxembourg,luxembourgish,french,german
+Madagascar,french
+Malawi,english
+Malaysia,indonesian,malay
+Maldives,bengali
+Mali,french
+Malta,maltese,english
+Marshall Islands,english
+Mauritania,arabic
+Mauritius,english
+Mexico,spanish
+Micronesia,english
+Moldova,romanian
+Monaco,french
+Mongolia,mongolian
+Montenegro,montenegrin,serbian
+Morocco,arabic
+Mozambique,portuguese
+Myanmar,english
+Namibia,english
+Nauru,english
+Nepal,hindi
+Netherlands,dutch
+New Zealand,english
+Nicaragua,spanish
+Niger,french
+Nigeria,nigerian
+North Macedonia,albanian,bulgarian
+Northern Ireland,english
+Norway,norwegian
+Oman,arabic
+Pakistan,pakistani
+Palau,english
+Panama,spanish
+Papua New Guinea,english
+Paraguay,spanish
+Peru,spanish
+Philippines,filipino,english
+Poland,polish
+Portugal,portuguese
+Qatar,arabic
+Romania,romanian
+Russia,russian
+Rwanda,french,english
+St Kitts & Nevis,english
+St Lucia,english
+Saint Vincent & the Grenadines,english
+Samoa,english
+San Marino,italian
+Sao Tome & Principe,portuguese
+Saudi Arabia,arabic
+Scotland,english
+Senegal,senegalese,french
+Serbia,serbian
+Seychelles,french,english
+Sierra Leone,english
+Singapore,malay
+Slovakia,slovak
+Slovenia,slovenian
+Solomon Islands,english
+Somalia,arabic
+South Africa,afrikaans,english
+South Sudan,english,arabic
+Spain,spanish
+Sri Lanka,hindi
+Sudan,arabic
+Suriname,dutch
+Swaziland,english
+Sweden,swedish
+Switzerland,swiss
+Syria,arabic
+Taiwan,chinese
+Tajikistan,persian
+Tanzania,swahili,english
+Thailand,thai
+Togo,french
+Tonga,english
+Trinidad & Tobago,english
+Tunisia,arabic
+Turkey,turkish
+Turkmenistan,turkish
+Tuvalu,english
+Uganda,swahili,english
+Ukraine,ukrainan,russian
+United Arab Emirates,arabic
+USA,english
+Uruguay,spanish
+Uzbekistan,turkish,russian
+Vanuatu,french,english
+Vatican City,italian
+Venezuela,spanish
+Vietnam,vietnamese,japanese
+Wales,english
+Yemen,arabic
+Zambia,english
+Zimbabwe,english
